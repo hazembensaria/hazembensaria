@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*iuUWR00VpsPyJ-qS7UIJNQ.gif)
+[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*iuUWR00VpsPyJ-qS7UIJNQ/2000_600px.gif)
 <h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="coding" width="400" src="https://nordiccoder.com/app/uploads/2019/03/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazembensaria&label=Profile%20views&color=0e75b6&style=flat" alt="hazembensaria" /> </p>
