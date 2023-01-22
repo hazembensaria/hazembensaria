@@ -1,4 +1,4 @@
-![MasterHead]<img align="right" alt="coding" width="400" src="https://nordiccoder.com/app/uploads/2019/03/programmer.gif">
+![MasterHead](<img align="right" alt="coding" width="400" src="https://nordiccoder.com/app/uploads/2019/03/programmer.gif">)
 <h1 align="center">Hi I am hazem ben saria 👋 </h1>
 <h3 align="center">A passionate frontend developer </h3>
 
