@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazembensaria&label=Profile%20views&color=0e75b6&style=flat" alt="hazembensaria" /> </p>
 
+- **software engineer**
+- 
 - 💬 Ask me about **Angular , express , MongoDB**
 
 - 📫 How to reach me **bensariahazem@gmail.com**
